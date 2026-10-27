@@ -1,0 +1,35 @@
+h1{
+color:darkblue;
+text-align:CENTER;
+}
+form{
+width:600px;
+margin:auto;
+background-color:white;
+padding:20px;
+border:2px solid darkblue;
+border-radius:10px;
+}
+fieldset{
+border:2px solid blue;
+padding:15px;
+}
+legend{
+color:darkblue;
+font-weight:bold;
+}
+label{
+font-weight:bold;
+}
+input,select,textarea{
+margin:8px;
+padding:6px;
+}
+button{
+padding:8px 20px;
+background-color: blue;
+color:white;
+border:none;
+border-radius:5px;
+margin:5px;
+}
